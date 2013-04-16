@@ -1,0 +1,687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-04-13 13:35+0900\n"
+"PO-Revision-Date: 2013-04-14 15:00+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/trans20130413/wp-content/"
+"plugins/custom-post-type-maker\n"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:56
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1047
+msgid "Custom Post Type Maker"
+msgstr "Custom Post Type Maker"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:57
+msgid "Custom Post Type"
+msgstr "カスタム投稿タイプ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:58
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:87
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:236
+msgid "Add New"
+msgstr "新規追加"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:59
+msgid "Add New Custom Post Type"
+msgstr "カスタム投稿タイプを追加"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:60
+msgid "Edit Custom Post Type"
+msgstr "カスタム投稿タイプを編集"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:61
+msgid "New Custom Post Type"
+msgstr "新しいカスタム投稿タイプ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:62
+msgid "View Custom Post Type"
+msgstr "カスタム投稿タイプを表示"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:63
+msgid "Search Custom Post Types"
+msgstr "カスタム投稿タイプを検索"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:64
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1147
+msgid "No Custom Post Types found"
+msgstr "カスタム投稿タイプが見つかりませんでした"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:65
+msgid "No Custom Post Types found in Trash"
+msgstr "ゴミ箱にカスタム投稿タイプが見つかりませんでした"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:85
+msgid "Custom Taxonomies"
+msgstr "カスタムタクソノミー"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:86
+msgid "Custom Taxonomy"
+msgstr "カスタムタクソノミー"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:88
+msgid "Add New Custom Taxonomy"
+msgstr "カスタムタクソノミーを追加"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:89
+msgid "Edit Custom Taxonomy"
+msgstr "カスタムタクソノミーを編集"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:90
+msgid "New Custom Taxonomy"
+msgstr "新しいカスタムタクソノミー"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:91
+msgid "View Custom Taxonomy"
+msgstr "カスタムタクソノミーを表示"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:92
+msgid "Search Custom Taxonomies"
+msgstr "カスタムタクソノミーを検索"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:93
+msgid "No Custom Taxonomies found"
+msgstr "カスタムタクソノミーが見つかりませんでした"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:94
+msgid "No Custom Taxonomies found in Trash"
+msgstr "ゴミ箱にカスタムタクソノミーが見つかりませんでした"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:122
+msgid "CPT Maker"
+msgstr "CPT Maker"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:122
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:841
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:123
+msgid "Taxonomies"
+msgstr "タクソノミー"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:237
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:329
+msgid "Add New "
+msgstr "新規追加"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:238
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:327
+msgid "Edit "
+msgstr "編集"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:239
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:330
+msgid "New "
+msgstr "New "
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:240
+msgid "View "
+msgstr "表示"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:241
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:322
+msgid "Search "
+msgstr "検索"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:242
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:243
+msgid "No "
+msgstr "いいえ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:323
+msgid "Popular "
+msgstr "人気"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:324
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:334
+msgid "All "
+msgstr "すべて"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:325
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:326
+msgid "Parent "
+msgstr "親"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:328
+msgid "Update "
+msgstr "更新"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:331
+msgid "Seperate "
+msgstr "分割"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:332
+msgid "Add or remove "
+msgstr "追加または削除"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:333
+msgid "Choose from the most used "
+msgstr "よく使われているものから選択"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:364
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:372
+msgid "Options"
+msgstr "オプション"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:439
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:974
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1097
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1116
+msgid "Custom Post Type Name"
+msgstr "カスタム投稿タイプ名"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:440
+msgid ""
+"The post type name. Used to retrieve custom post type content. Must be all "
+"in lower-case and without any spaces."
+msgstr ""
+"投稿タイプ名。カスタム投稿タイプのコンテンツを取得するために使用します。すべ"
+"て小文字で、スペースを使用しないでください。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:441
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:755
+msgid "e.g. movies"
+msgstr "例: movies"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:449
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:763
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:975
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1012
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1100
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1119
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1200
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1216
+msgid "Label"
+msgstr "ラベル"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:450
+msgid "A plural descriptive name for the post type."
+msgstr "投稿タイプの複数形の記述名。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:451
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:765
+msgid "e.g. Movies"
+msgstr "例: 映画"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:459
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:773
+msgid "Singular Name"
+msgstr "単数形の名前"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:460
+msgid "A singular descriptive name for the post type."
+msgstr "投稿タイプの単数形の記述名。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:461
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:775
+msgid "e.g. Movie"
+msgstr "例: 映画"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:469
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:976
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1103
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1122
+msgid "Description"
+msgstr "説明"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:470
+msgid "A short descriptive summary of what the post type is."
+msgstr "投稿タイプが何であるかの要約を簡潔に書いてください。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:478
+msgid "Visibility"
+msgstr "表示"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:483
+msgid "Public"
+msgstr "公開"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:484
+msgid ""
+"Whether a post type is intended to be used publicly either via the admin "
+"interface or by front-end users."
+msgstr "この投稿タイプを公開しますか。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:488
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:505
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:517
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:545
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:556
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:569
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:581
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:597
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:618
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:661
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:672
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:788
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:801
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:812
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:834
+msgid "True"
+msgstr "真"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:488
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:505
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:517
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:544
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:556
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:568
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:580
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:597
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:618
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:648
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:660
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:672
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:683
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:684
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:685
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:788
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:800
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:812
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:834
+msgid "default"
+msgstr "デフォルト"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:489
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:506
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:518
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:544
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:557
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:568
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:580
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:598
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:619
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:660
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:673
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:789
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:800
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:813
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:835
+msgid "False"
+msgstr "偽"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:495
+msgid "Rewrite Options"
+msgstr "書き換えオプション"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:500
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:807
+msgid "Rewrite"
+msgstr "書き換え"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:501
+msgid "Triggers the handling of rewrites for this post type."
+msgstr "投稿タイプの書き換え処理を有効にする"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:512
+msgid "With Front"
+msgstr "フロント"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:513
+msgid "Should the permastruct be prepended with the front base."
+msgstr "パーマリンク構造にフロントベースを付加するかどうか。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:524
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:819
+msgid "Custom Rewrite Slug"
+msgstr "カスタム書き換えスラッグ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:525
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:820
+msgid "Customize the permastruct slug."
+msgstr "パーマリンク構造のスラッグをカスタマイズ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:526
+msgid "Default: [Custom Post Type Name]"
+msgstr "デフォルト: [カスタム投稿タイプ名]"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:534
+msgid "Front-end Options"
+msgstr "フロントエンド オプション"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:539
+msgid "Feeds"
+msgstr "フィード"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:540
+msgid ""
+"Should a feed permastruct be built for this post type. Defaults to "
+"\"has_archive\" value."
+msgstr ""
+"この投稿タイプのためにフィードのパーマリンク構造を構築するかどうか。デフォル"
+"トは \"has_archive\"  に設定されています。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:551
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:846
+msgid "Pages"
+msgstr "ページ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:552
+msgid "Should the permastruct provide for pagination."
+msgstr "ページネーションにパーマリンク構造を提供するかどうか。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:563
+msgid "Exclude From Search"
+msgstr "検索から除外"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:564
+msgid ""
+"Whether to exclude posts with this post type from front end search results."
+msgstr "フロントエンドの検索結果から、この投稿タイプの投稿を除外するかどうか。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:575
+msgid "Has Archive"
+msgstr "アーカイブ化"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:576
+msgid "Enables post type archives."
+msgstr "投稿タイプをアーカイブを有効にします。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:587
+msgid "Admin Menu Options"
+msgstr "管理メニューオプション"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:592
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:783
+msgid "Show UI"
+msgstr "UI を表示"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:593
+msgid ""
+"Whether to generate a default UI for managing this post type in the admin."
+msgstr ""
+"管理画面にこの投稿タイプを管理するためのデフォルト UI を生成するかどうか。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:604
+msgid "Menu Position"
+msgstr "メニュー位置"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:605
+msgid ""
+"The position in the menu order the post type should appear. \"Show in Menu\" "
+"must be true."
+msgstr ""
+"投稿タイプが表示されるメニューの位置。\"メニューに表示\" が真でなければなりま"
+"せん。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:613
+msgid "Show in Menu"
+msgstr "メニューに表示"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:614
+msgid ""
+"Where to show the post type in the admin menu. \"Show UI\" must be true."
+msgstr ""
+"投稿タイプをメニューに表示する。\"UI を表示\" が真でなければなりません。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:625
+msgid "Icon"
+msgstr "アイコン"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:631
+msgid "Add icon"
+msgstr "アイコンを追加"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:631
+msgid "Edit icon"
+msgstr "アイコンを編集"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:638
+msgid "Wordpress Integration"
+msgstr "Wordpress の統合"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:643
+msgid "Capability Type"
+msgstr "機能タイプ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:644
+msgid "The post type to use to build the read, edit, and delete capabilities."
+msgstr "投稿タイプは閲覧、編集、削除できるようにする。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:648
+msgid "Post"
+msgstr "投稿"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:649
+msgid "Page"
+msgstr "ページ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:655
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:795
+msgid "Hierarchical"
+msgstr "階層"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:656
+msgid "Whether the post type is hierarchical (e.g. page)."
+msgstr "投稿タイプを階層化しますか。例: ページ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:667
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:829
+msgid "Query Var"
+msgstr "クェリー変数"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:668
+msgid "Sets the query_var key for this post type."
+msgstr "この投稿タイプで query_var キーを設定"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:679
+msgid "Supports"
+msgstr "サポート"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:680
+msgid ""
+"Adds the respective meta boxes when creating content for this Custom Post "
+"Type."
+msgstr ""
+"このカスタム投稿タイプのコンテンツを作成する際、それぞれのメタボックスを追加"
+"します。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:683
+msgid "Title"
+msgstr "タイトル"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:684
+msgid "Editor"
+msgstr "エディター"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:685
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:686
+msgid "Trackbacks"
+msgstr "トラックバック"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:687
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:688
+msgid "Comments"
+msgstr "コメント"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:689
+msgid "Revisions"
+msgstr "リビジョン"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:690
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:691
+msgid "Author"
+msgstr "作成者"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:692
+msgid "Page Attributes"
+msgstr "ページ属性"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:693
+msgid "Post Formats"
+msgstr "フォーマット"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:698
+msgid "Built-in Taxonomies"
+msgstr "ビルトイン タクソノミー"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:702
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:703
+msgid "Tags"
+msgstr "タグ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:753
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1011
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1197
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1213
+msgid "Custom Taxonomy Name"
+msgstr "カスタムタクソノミー名"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:754
+msgid "The taxonomy name. Used to retrieve custom taxonomy content."
+msgstr ""
+"タクソノミー名。カスタムタクソノミーのコンテンツを取得するために使用します。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:764
+msgid "A plural descriptive name for the taxonomy."
+msgstr "タクソノミーの複数形の記述名。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:774
+msgid "A singular descriptive name for the taxonomy."
+msgstr "タクソノミーの単数形の記述名。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:784
+msgid ""
+"Whether to generate a default UI for managing this taxonomy in the admin."
+msgstr ""
+"メニューにこのタクソノミーを管理するためのUIをデフォルトで生成しますか。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:796
+msgid "Whether the taxonomy is hierarchical (e.g. page)."
+msgstr "タクソノミーを階層化しますか。例: ページ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:808
+msgid "Triggers the handling of rewrites for this taxonomy."
+msgstr "タクソノミーの書き換え処理を有効にする"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:821
+msgid "Default: [Custom Taxonomy Name]"
+msgstr "デフォルト: [カスタムタクソノミー名]"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:830
+msgid "Sets the query_var key for this taxonomy."
+msgstr "このタクソノミーで query_var キーを設定"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:845
+msgid "Posts"
+msgstr "投稿"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:973
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1094
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1113
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1010
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1194
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1210
+msgid "Taxonomy"
+msgstr "タクソノミー"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1048
+msgid "Version"
+msgstr "バージョン"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1049
+msgid "Useful links"
+msgstr "便利なリンク集"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1051
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1052
+msgid "Support Forums"
+msgstr "サポート フォーラム"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1053
+msgid "Direct contact (@jornbakhuys)"
+msgstr "連絡先 (@jornbakhuys)"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1058
+msgid "Created by"
+msgstr "開発者"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1061
+msgid "Vote"
+msgstr "投票"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1086
+msgid "Other registered Custom Post Types"
+msgstr "他の登録済みのカスタム投稿タイプ"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1087
+msgid ""
+"The Custom Post Types below are registered in WordPress but were not created "
+"by the Custom Post Type Maker plugin."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1186
+msgid "Other registered custom Taxonomies"
+msgstr "他の登録済みのカスタムタクソノミー"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1187
+msgid ""
+"The custom Taxonomies below are registered in WordPress but were not created "
+"by the Custom Post Type Maker plugin."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1240
+msgid "No custom Taxonomies found"
+msgstr "カスタムタクソノミーが見つかりませんでした"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1272
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1273
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1275
+msgid "Custom Post Type updated."
+msgstr "カスタム投稿タイプを更新しました。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1274
+msgid "Custom Post Type deleted."
+msgstr "カスタム投稿タイプが削除しました。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1277
+#, php-format
+msgid "Custom Post Type restored to revision from %s"
+msgstr "カスタム投稿タイプは%s からリビジョンに復元しました"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1278
+msgid "Custom Post Type published."
+msgstr "カスタム投稿タイプを公開しました。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1279
+msgid "Custom Post Type saved."
+msgstr "カスタム投稿タイプを保存しました。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1280
+msgid "Custom Post Type submitted."
+msgstr "カスタム投稿タイプを送信しました。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1281
+msgid "Custom Post Type scheduled for."
+msgstr "カスタム投稿タイプを予約しています。"
+
+#: /Applications/MAMP/htdocs/trans20130413/wp-content/plugins/custom-post-type-maker/custom-post-type-maker.php:1282
+msgid "Custom Post Type draft updated."
+msgstr "カスタム投稿タイプの下書きを更新しました。"
